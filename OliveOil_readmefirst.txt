@@ -1,12 +1,12 @@
 
 Supplementary: Novel time-domain NMR-based traits for rapid, label-free Olive Oils profiling
 
-Vasco Rafael dos Santos1,2,3, VictorGoncalves2, Deng Pei Shan3, Ana Cristina Ribeiro1,2, Bárbara Dias2, Inês Mendes Pinto2,4, Juan Gallo2, Weng Kung Peng 2,3*
+Vasco Rafael dos Santos1,2,3, VictorGoncalves2, Deng Pei Shan3, Ana Cristina Ribeiro1,2, BÃ¡rbara Dias2, InÃªs Mendes Pinto2,4, Juan Gallo2, Weng Kung Peng 2,3*
 
 1University of Minho, Braga, 4704-553 Portugal
 2International Iberian Nanotechnology Laboratory, Braga, 4715-330 Portugal
 3Songshan Lake Materials Laboratory, Dongguan, 523-808 China.
-4Instituto de Investigaça?o e Inovaça?o em Sau?de, Universidade do Porto, Portugal
+4Instituto de InvestigaÃ§ao e InovaÃ§ao em Saude, Universidade do Porto, Portugal
 
 
 Raw data presented in excel files:
